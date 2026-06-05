@@ -1,7 +1,7 @@
 // =====================
 // API URL
 // =====================
-const API = "https://grideditor-online.onrender.com"; // ← deine echte Render URL
+const API = ""; // ← leerer String = gleiche Domain
 
 // =====================
 // STATE
